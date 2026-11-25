@@ -1,0 +1,230 @@
+[      11ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[     391ms] [LOG] [Fast Refresh] done in 480ms @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[     446ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[     915ms] [LOG] [Fast Refresh] done in 40ms @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[    4300ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[    5379ms] [LOG] [HMR] connected @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[    9670ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[    9671ms] [LOG] [Fast Refresh] done in 475ms @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[   13995ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[   14141ms] [LOG] [Fast Refresh] done in 246ms @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[   30923ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[   31940ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[   32947ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[   33955ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[   34979ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[   39984ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[   44995ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[   50017ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[   55024ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[   60040ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[   65051ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[   70081ms] [ERROR] WebSocket connection to 'ws://localhost:3002/_next/hmr?id=QDPCUdkiPu1noLbjIlBE4' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_1ohys4wzsw--s._.js:16430
+[  816214ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[  817063ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[  848555ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[  848892ms] ReferenceError: useRef is not defined
+    at Portrait (http://localhost:3000/_next/static/chunks/src_0mt2da3xgewdm._.js?id=%255Bproject%255D/src/components/sections/hero.tsx+%255Bapp-client%255D+(ecmascript):102:17)
+    at Object.react_stack_bottom_frame (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:15013:24)
+    at renderWithHooks (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:4451:24)
+    at updateFunctionComponent (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:5923:21)
+    at beginWork (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:6549:24)
+    at runWithFiberInDEV (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:777:74)
+    at performUnitOfWork (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:9440:97)
+    at workLoopSync (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:9334:40)
+    at renderRootSync (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:9318:13)
+    at performWorkOnRoot (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:8984:47)
+    at performSyncWorkOnRoot (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:10148:9)
+    at flushSyncWorkAcrossRoots_impl (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:10064:316)
+    at flushSyncWork$1 (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:9118:86)
+    at Object.scheduleRefresh (http://localhost:3000/_next/static/chunks/1daa_next_dist_compiled_react-dom_cjs_react-dom-client_development_0mp0cp_t-ezj9.js:82:13)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_1amofcmz--cdp._.js:589:33
+    at Set.forEach (<anonymous>)
+    at Object.performReactRefresh (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_1amofcmz--cdp._.js:582:38)
+    at applyUpdate (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_1amofcmz--cdp._.js:137:31)
+    at http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_1amofcmz--cdp._.js:145:13
+[  849279ms] [LOG] [Fast Refresh] done in 160ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[  850274ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[  850337ms] [WARNING] [Fast Refresh] performing full reload because your application had an unrecoverable error @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[  850468ms] [ERROR] Encountered a script tag while rendering React component. Scripts inside React components are never executed when rendering on the client. Consider using template tag instead (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template). @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:1037
+[  852011ms] [LOG] [Fast Refresh] done in 1038ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[  852012ms] [LOG] [Fast Refresh] done in 1038ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[  854952ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[  855190ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[  872185ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[  872895ms] [LOG] [Fast Refresh] done in 653ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[ 1238565ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[ 1239790ms] [LOG] [Fast Refresh] done in 1301ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[ 1239793ms] [LOG] [Fast Refresh] done in 1301ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[ 1536224ms] [LOG] %cKip v0.0.3 loaded color: #0168FE; font-weight: 700; @ https://cdn.shopify.com/extensions/01a20ff1-901d-7c40-a844-766dc8f31c13/kip-customize-payment-methods-200/assets/script.js:746
+[ 1537146ms] [LOG] BG pixel loaded @ https://bavastudios.com/web-pixels/strict/app/web-pixel-819036224@13124b044e9b3aaaba4080cdba031853.js:1
+[ 1538560ms] [LOG] %c ► Bixgrow: toolbar background-color: #f90; color: #fff; padding: 5px; @ https://cdn.shopify.com/extensions/01a1ca24-1888-70db-9db9-bcd4b2a98420/bixgrow-affiliate-214/assets/bixgrow_affiliate_toolbar.js:831
+[ 1538586ms] [LOG] %c ► Bixgrow:App embed tracker background-color: #f90; color: #fff; padding: 5px; @ https://cdn.shopify.com/extensions/01a1ca24-1888-70db-9db9-bcd4b2a98420/bixgrow-affiliate-214/assets/bixgrow_tracker_logic.js:221
+[ 1539302ms] [LOG] [GoKwik OCC] International flow ON — checking country... @ https://bavastudios.com/:1155
+[ 1540348ms] [LOG] GoKwik OCC: International user — skipping injection. @ https://bavastudios.com/:1127
+[ 1540491ms] [INFO] Clear-Site-Data header on 'https://bavastudios.com/cart/update.js': Cleared data types: "prefetchCache", "prerenderCache". @ https://bavastudios.com/:1
+[ 1541362ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://bavastudios.com/favicon.ico:1
+[ 1545698ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://bavastudios.com/favicon.ico:1
+[ 1560408ms] [INFO] Clear-Site-Data header on 'https://fitcandylabs.com/cart/update.js': Cleared data types: "prefetchCache", "prerenderCache". @ https://fitcandylabs.com/:10143
+[ 1561335ms] [LOG] SHOPLIFT SCRIPT INITIALIZED! @ https://fitcandylabs.com/:16
+[ 1563082ms] [INFO] k-web-pixel-version 4 @ https://fitcandylabs.com/web-pixels/strict/app/web-pixel-2790228161@3fe25e975c30cd2a9af38a04798704c0.js:1
+[ 1573321ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.shopify.com/shopify-marketing_assets/static/ShopifySans--regular.woff:1
+[ 1580052ms] [LOG] REMIX PROTECT ! @ https://www.alexieofathens.com/:2474
+[ 1583457ms] [LOG] %c%s background: #01d283; color: #fff; font-size: 12px; font-weight:bold; padding: 5px 10px; border-radius: 3px 🔰  MONSTER - ShipProtect is activated v:3.2 🔰 @ https://cdn.shopify.com/extensions/01a0e851-bf51-78f5-b189-877021c215d8/shipping-protection-9-55/assets/protect_renderer.js:46
+[ 1586793ms] [INFO] k-web-pixel-version 4 @ https://www.alexieofathens.com/web-pixels/strict/app/web-pixel-2162458935@3fe25e975c30cd2a9af38a04798704c0.js:1
+[ 1587583ms] [LOG] {settings: Object, variants: Object, id: 6042dc-6.myshopify.com, userId: 6042dc-6.myshopify.com, currency: USD} @ https://cdn.shopify.com/extensions/01a0e851-bf51-78f5-b189-877021c215d8/shipping-protection-9-55/assets/protect_renderer.js:46
+[ 1587584ms] [LOG] {active: USD, rate: 1.0} @ https://cdn.shopify.com/extensions/01a0e851-bf51-78f5-b189-877021c215d8/shipping-protection-9-55/assets/protect_renderer.js:46
+[ 1589016ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://www.alexieofathens.com/cdn/shop/t/80/assets/theme.js?v=939066324693240641795641785:9
+[ 1589069ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://www.alexieofathens.com/cdn/shop/t/80/assets/theme.js?v=939066324693240641795641785:9
+[ 1589333ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://www.alexieofathens.com/cdn/shop/t/80/assets/theme.js?v=939066324693240641795641785:9
+[ 1589617ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://www.alexieofathens.com/cdn/shop/t/80/assets/theme.js?v=939066324693240641795641785:9
+[ 1589647ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://www.alexieofathens.com/cdn/shop/t/80/assets/theme.js?v=939066324693240641795641785:9
+[ 1604142ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604177ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604178ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604179ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604179ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604179ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604180ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604184ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604186ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604187ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604188ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604190ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604190ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604191ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604191ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604192ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604192ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604193ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604194ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604195ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604196ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604196ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604196ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604196ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604196ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604197ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604197ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604198ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604199ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604200ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604201ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604202ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604202ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604202ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604202ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604203ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604203ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604203ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604204ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604204ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604204ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604205ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604205ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604205ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604206ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604206ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604206ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604207ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604208ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604209ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604210ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604211ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604211ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604211ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604212ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604212ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604212ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604213ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604213ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604213ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604214ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604214ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604214ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604214ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604215ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604215ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604215ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604215ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604216ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604216ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604217ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604217ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604217ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604218ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604218ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604218ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604219ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604219ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604219ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604219ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604220ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604220ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604220ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604221ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604221ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604221ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604222ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604222ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604222ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604222ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604223ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604223ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604223ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604224ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604224ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604225ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604225ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604226ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604226ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604226ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604226ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604227ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604227ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604227ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604228ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604228ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604229ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604229ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604229ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604245ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604259ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604260ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604260ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604260ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604260ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604261ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604262ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604262ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604263ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604263ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604263ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604263ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604264ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604264ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604264ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604264ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604265ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604265ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604265ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604265ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604266ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604266ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604266ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604267ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604267ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604267ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ https://static.klaviyo.com/onsite/js/Render.eda46022185b7.js?cb=2:1305
+[ 1604577ms] [WARNING] The resource https://www.alexieofathens.com/cdn/shop/files/banner-1_b2d115d6-95d1-459a-b1e6-270da2a73933.jpg?crop=center&height=856&v=1790163152&width=1920 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.alexieofathens.com/:1
+[ 1604577ms] [WARNING] The resource https://www.alexieofathens.com/cdn/shop/t/80/assets/loading.svg?v=91665432863842511931795641754 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.alexieofathens.com/:1
+[ 1604577ms] [WARNING] The resource https://www.alexieofathens.com/cdn/shop/t/79/assets/custom.css?v=40570037307290873751793947040 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally. @ https://www.alexieofathens.com/:1
+[ 1604577ms] [WARNING] The resource https://www.alexieofathens.com/cdn/shop/t/79/assets/theme.css?v=94668437274224165411793947040 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally. @ https://www.alexieofathens.com/:1
+[ 1604577ms] [WARNING] The resource https://www.alexieofathens.com/cdn/shop/t/79/assets/gift-popup.css?v=81763087039333454211795471401 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally. @ https://www.alexieofathens.com/:1
+[ 1604577ms] [WARNING] The resource https://www.alexieofathens.com/cdn/shop/t/79/assets/gift-cart.css?v=104948219028138191521795471401 (as=style) was preloaded using link preload in Early Hints but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value, a correct `crossorigin` value and it is preloaded intentionally. @ https://www.alexieofathens.com/:1
+[ 1659824ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[ 1660498ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[ 1663420ms] [WARNING] Image with src "/projects/protocole.jpg" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[ 1663421ms] [WARNING] Image with src "/projects/bavastudios.jpg" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[ 1670978ms] [WARNING] Image with src "/projects/fitcandylabs.jpg" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[ 1671186ms] [WARNING] Image with src "/projects/alexie-of-athens.jpg" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761
+[ 1671285ms] [WARNING] Image with src "/projects/knights-of-repair.jpg" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative. @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1bjkg68unqmjx._.js:761

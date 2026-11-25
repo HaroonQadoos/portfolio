@@ -1,0 +1,320 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - navigation "Primary" [ref=e4]:
+      - link "Haroon Qadoos — back to top Available for new projects" [ref=e5] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=e6]: Haroon Qadoos — back to top
+        - generic [ref=e7]: Available for new projects
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - link "Work (01)" [ref=e14] [cursor=pointer]:
+            - /url: "#work"
+            - text: Work
+            - generic [ref=e15]: (01)
+        - listitem [ref=e16]:
+          - link "Services (02)" [ref=e17] [cursor=pointer]:
+            - /url: "#services"
+            - text: Services
+            - generic [ref=e18]: (02)
+        - listitem [ref=e19]:
+          - link "Experience (03)" [ref=e20] [cursor=pointer]:
+            - /url: "#experience"
+            - text: Experience
+            - generic [ref=e21]: (03)
+        - listitem [ref=e22]:
+          - link "Contact (04)" [ref=e23] [cursor=pointer]:
+            - /url: "#contact"
+            - text: Contact
+            - generic [ref=e24]: (04)
+      - generic [ref=e25]:
+        - button "Toggle dark mode" [ref=e26]
+        - link "Let's Talk" [ref=e33] [cursor=pointer]:
+          - /url: "#contact"
+  - main [ref=e37]:
+    - region "Haroon Qadoos, Full Stack Engineer" [ref=e38]:
+      - generic [ref=e39]:
+        - generic [ref=e40]: Available for new projects
+        - heading "Haroon Qadoos, Full Stack Engineer" [level=1] [ref=e45]:
+          - generic [aria-hidden] [ref=e46]:
+            - generic [ref=e47]:
+              - text: H
+              - generic [ref=e48]: H
+            - generic [ref=e49]:
+              - text: a
+              - generic [ref=e50]: a
+            - generic [ref=e51]:
+              - text: r
+              - generic [ref=e52]: r
+            - generic [ref=e53]:
+              - text: o
+              - generic [ref=e54]: o
+            - generic [ref=e55]:
+              - text: o
+              - generic [ref=e56]: o
+            - generic [ref=e57]:
+              - text: "n"
+              - generic [ref=e58]: "n"
+          - generic [aria-hidden] [ref=e59]:
+            - generic [ref=e60]: Q
+            - generic [ref=e61]: a
+            - generic [ref=e62]: d
+            - generic [ref=e63]: o
+            - generic [ref=e64]: o
+            - generic [ref=e65]: s
+        - paragraph [ref=e66]: Full Stack Engineer · Shopify · Webflow · Next.js
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - paragraph [ref=e69]: I build fast storefronts and web apps that convert.
+            - paragraph [ref=e70]: Full Stack Engineer with 1 year of hands-on experience shipping Shopify stores, Webflow sites and Next.js applications — from pixel-perfect UI to the APIs and databases behind it.
+          - generic [ref=e71]:
+            - link "View Projects" [ref=e72] [cursor=pointer]:
+              - /url: "#work"
+            - link "Download Resume" [ref=e75] [cursor=pointer]:
+              - /url: /resume.pdf
+        - generic [ref=e80]:
+          - generic [ref=e81]: 1+ year building for the web
+          - link "Scroll" [ref=e82] [cursor=pointer]:
+            - /url: "#services"
+    - region "/Services" [ref=e86]:
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - generic [aria-hidden]: Services
+          - heading "/Services" [level=2] [ref=e90]
+        - list [ref=e91]:
+          - listitem [ref=e92]:
+            - generic [ref=e93]:
+              - heading [level=3] [ref=e94]:
+                - button "Full Stack Development" [expanded] [ref=e95]
+              - region [ref=e101]:
+                - generic [ref=e102]:
+                  - paragraph [ref=e103]: Production web apps with Next.js, TypeScript and PostgreSQL — typed end to end, server-rendered and deployed on Vercel.
+                  - list [ref=e104]:
+                    - listitem [ref=e105]: Next.js
+                    - listitem [ref=e106]: Server Actions
+                    - listitem [ref=e107]: PostgreSQL
+                    - listitem [ref=e108]: REST & GraphQL
+          - listitem [ref=e109]:
+            - heading [level=3] [ref=e111]:
+              - button "Shopify Development" [ref=e112]
+          - listitem [ref=e118]:
+            - heading [level=3] [ref=e120]:
+              - button "Webflow Development" [ref=e121]
+          - listitem [ref=e127]:
+            - heading [level=3] [ref=e129]:
+              - button "Performance & SEO" [ref=e130]
+    - region "/Work" [ref=e136]:
+      - generic [ref=e137]:
+        - generic [ref=e138]:
+          - generic [aria-hidden]: Work
+          - heading "/Work" [level=2] [ref=e140]
+          - generic [ref=e141]: (03) projects
+        - generic [ref=e143]:
+          - article [ref=e145]:
+            - generic [ref=e146]:
+              - generic [ref=e148]:
+                - generic [ref=e151]: Shopify
+                - generic [ref=e152]: Custom Shopify Storefront
+              - generic [ref=e153]: Shopify
+            - generic [ref=e154]:
+              - generic [ref=e155]:
+                - heading "Custom Shopify Storefront" [level=3] [ref=e156]
+                - button "Like Custom Shopify Storefront (0 likes)" [ref=e157]:
+                  - generic [ref=e162]: "0"
+              - paragraph [ref=e163]: Online Store 2.0 theme built from scratch for a fashion brand, with modular sections merchants edit without code.
+              - list "Architecture highlights" [ref=e164]:
+                - listitem [ref=e165]: Dynamic sections driven by metafields
+                - listitem [ref=e168]: Ajax cart drawer with upsells
+                - listitem [ref=e171]: Lighthouse 95+ on mobile
+              - list "Tech used" [ref=e174]:
+                - listitem [ref=e175]: Shopify
+                - listitem [ref=e176]: Liquid
+                - listitem [ref=e177]: JavaScript
+                - listitem [ref=e178]: Tailwind CSS
+              - link "Live demo for Custom Shopify Storefront (opens in new tab)" [ref=e180] [cursor=pointer]:
+                - /url: https://example.com
+                - text: Live demo
+                - generic [ref=e184]: for Custom Shopify Storefront (opens in new tab)
+          - article [ref=e186]:
+            - generic [ref=e187]:
+              - generic [ref=e189]:
+                - generic [ref=e192]: Webflow
+                - generic [ref=e193]: Agency Marketing Site
+              - generic [ref=e194]: Webflow
+            - generic [ref=e195]:
+              - generic [ref=e196]:
+                - heading "Agency Marketing Site" [level=3] [ref=e197]
+                - button "Like Agency Marketing Site (0 likes)" [ref=e198]:
+                  - generic [ref=e203]: "0"
+              - paragraph [ref=e204]: Responsive Webflow site with a CMS-driven case-study library, scroll Interactions and a lead form wired to the CRM.
+              - list "Architecture highlights" [ref=e205]:
+                - listitem [ref=e206]: CMS collections for case studies
+                - listitem [ref=e209]: Native Interactions, no custom JS
+                - listitem [ref=e212]: Webhooks into the CRM
+              - list "Tech used" [ref=e215]:
+                - listitem [ref=e216]: Webflow
+                - listitem [ref=e217]: CMS
+                - listitem [ref=e218]: Interactions
+                - listitem [ref=e219]: SEO
+              - link "Live demo for Agency Marketing Site (opens in new tab)" [ref=e221] [cursor=pointer]:
+                - /url: https://example.com
+                - text: Live demo
+                - generic [ref=e225]: for Agency Marketing Site (opens in new tab)
+          - article [ref=e227]:
+            - generic [ref=e228]:
+              - generic [ref=e230]:
+                - generic [ref=e233]: Full Stack
+                - generic [ref=e234]: Store Analytics Dashboard
+              - generic [ref=e235]: Full Stack
+            - generic [ref=e236]:
+              - generic [ref=e237]:
+                - heading "Store Analytics Dashboard" [level=3] [ref=e238]
+                - button "Like Store Analytics Dashboard (0 likes)" [ref=e239]:
+                  - generic [ref=e244]: "0"
+              - paragraph [ref=e245]: Next.js dashboard that syncs Shopify orders into PostgreSQL and charts revenue, AOV and top products in real time.
+              - list "Architecture highlights" [ref=e246]:
+                - listitem [ref=e247]: Server Actions + Drizzle ORM
+                - listitem [ref=e250]: Shopify Admin API sync
+                - listitem [ref=e253]: Typed end to end with Zod
+              - list "Tech used" [ref=e256]:
+                - listitem [ref=e257]: Next.js
+                - listitem [ref=e258]: TypeScript
+                - listitem [ref=e259]: PostgreSQL
+                - listitem [ref=e260]: Drizzle
+              - link "Code for Store Analytics Dashboard on GitHub (opens in new tab)" [ref=e262] [cursor=pointer]:
+                - /url: https://github.com/haroonqadoos
+                - text: Code
+                - generic [ref=e265]: for Store Analytics Dashboard on GitHub (opens in new tab)
+    - region "/Stack" [ref=e266]:
+      - generic [ref=e267]:
+        - generic [ref=e268]:
+          - generic [aria-hidden]: Stack
+          - heading "/Stack" [level=2] [ref=e270]
+        - generic [ref=e271]:
+          - generic [ref=e273]:
+            - heading "Frontend" [level=3] [ref=e278]
+            - list [ref=e279]:
+              - listitem [ref=e280]:
+                - generic [ref=e281]: React
+              - listitem [ref=e282]:
+                - generic [ref=e283]: Next.js
+              - listitem [ref=e284]:
+                - generic [ref=e285]: TypeScript
+              - listitem [ref=e286]:
+                - generic [ref=e287]: Tailwind CSS
+              - listitem [ref=e288]:
+                - generic [ref=e289]: Framer Motion
+              - listitem [ref=e290]:
+                - generic [ref=e291]: shadcn/ui
+              - listitem [ref=e292]:
+                - generic [ref=e293]: HTML & CSS
+          - generic [ref=e295]:
+            - heading "Backend & Platforms" [level=3] [ref=e301]
+            - list [ref=e302]:
+              - listitem [ref=e303]:
+                - generic [ref=e304]: Node.js
+              - listitem [ref=e305]:
+                - generic [ref=e306]: Server Actions
+              - listitem [ref=e307]:
+                - generic [ref=e308]: REST APIs
+              - listitem [ref=e309]:
+                - generic [ref=e310]: Shopify Liquid
+              - listitem [ref=e311]:
+                - generic [ref=e312]: Shopify Storefront API
+              - listitem [ref=e313]:
+                - generic [ref=e314]: Webflow CMS
+              - listitem [ref=e315]:
+                - generic [ref=e316]: Resend
+          - generic [ref=e318]:
+            - heading "Database & DevOps" [level=3] [ref=e325]
+            - list [ref=e326]:
+              - listitem [ref=e327]:
+                - generic [ref=e328]: PostgreSQL
+              - listitem [ref=e329]:
+                - generic [ref=e330]: Drizzle ORM
+              - listitem [ref=e331]:
+                - generic [ref=e332]: Neon
+              - listitem [ref=e333]:
+                - generic [ref=e334]: Vercel
+              - listitem [ref=e335]:
+                - generic [ref=e336]: Git & GitHub
+              - listitem [ref=e337]:
+                - generic [ref=e338]: GitHub Actions
+    - region "/Experience" [ref=e339]:
+      - generic [ref=e340]:
+        - generic [ref=e341]:
+          - generic [aria-hidden]: Experience
+          - heading "/Experience" [level=2] [ref=e343]
+          - generic [ref=e344]: 1+ year of experience
+        - list [ref=e346]:
+          - listitem [ref=e347]:
+            - generic [ref=e349]:
+              - generic [ref=e350]:
+                - generic [ref=e351]:
+                  - heading "Shopify & Webflow Developer" [level=3] [ref=e352]
+                  - paragraph [ref=e353]: Freelance & Agency Projects
+                - paragraph [ref=e354]: 2025 — Now
+              - list [ref=e355]:
+                - listitem [ref=e356]: Built and customised Shopify themes with Liquid, metafields and app integrations for e-commerce brands.
+                - listitem [ref=e358]: Designed and developed Webflow sites with CMS collections, Interactions and SEO-ready structure.
+                - listitem [ref=e360]: Improved Core Web Vitals and fixed technical SEO issues across client storefronts.
+              - list "Tools used" [ref=e362]:
+                - listitem [ref=e363]: Shopify
+                - listitem [ref=e364]: Liquid
+                - listitem [ref=e365]: Webflow
+                - listitem [ref=e366]: SEO
+          - listitem [ref=e367]:
+            - generic [ref=e369]:
+              - generic [ref=e370]:
+                - generic [ref=e371]:
+                  - heading "Full Stack Engineer" [level=3] [ref=e372]
+                  - paragraph [ref=e373]: Independent
+                - paragraph [ref=e374]: 2025 — Now
+              - list [ref=e375]:
+                - listitem [ref=e376]: Shipped Next.js apps with Server Actions, PostgreSQL and typed APIs, deployed on Vercel.
+                - listitem [ref=e378]: Integrated Shopify and Webflow APIs into custom dashboards and automations.
+              - list "Tools used" [ref=e380]:
+                - listitem [ref=e381]: Next.js
+                - listitem [ref=e382]: TypeScript
+                - listitem [ref=e383]: PostgreSQL
+    - region "Have a project in mind?" [ref=e384]:
+      - generic [ref=e385]:
+        - generic [ref=e386]:
+          - generic [ref=e387]: Available for new projects
+          - heading "Have a project in mind?" [level=2] [ref=e391]
+          - paragraph [ref=e392]: Shopify store, Webflow site or a full stack app — tell me what you're building and let's make it fast, clean and easy to grow.
+          - button "hello@haroonqadoos.com Copy email address" [ref=e394]:
+            - generic [ref=e395]: hello@haroonqadoos.com
+            - generic [ref=e400]: Copy email address
+        - generic [ref=e402]:
+          - generic [ref=e403]:
+            - generic [ref=e404]:
+              - generic [ref=e405]: Name
+              - textbox "Name" [ref=e406]
+            - generic [ref=e407]:
+              - generic [ref=e408]: Email
+              - textbox "Email" [ref=e409]
+          - generic [ref=e410]:
+            - generic [ref=e411]: Project details
+            - textbox "Project details" [ref=e412]
+          - generic [aria-hidden] [ref=e413]:
+            - text: Company
+            - textbox [ref=e414]
+          - generic [ref=e415]:
+            - status [ref=e416]: I usually reply within 24 hours.
+            - button "Send message" [ref=e417]
+  - contentinfo [ref=e421]:
+    - paragraph [ref=e422]: © Haroon Qadoos · Built with Next.js
+    - list [ref=e423]:
+      - listitem [ref=e424]:
+        - link "GitHub" [ref=e425] [cursor=pointer]:
+          - /url: https://github.com/haroonqadoos
+      - listitem [ref=e428]:
+        - link "LinkedIn" [ref=e429] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/haroonqadoos
+      - listitem [ref=e432]:
+        - link "Email" [ref=e433] [cursor=pointer]:
+          - /url: mailto:hello@haroonqadoos.com
+  - region "Notifications alt+T"
+  - alert [ref=e437]
