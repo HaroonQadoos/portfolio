@@ -37,8 +37,8 @@ export const services: Service[] = [
   {
     title: "Full Stack Development",
     description:
-      "Production web apps with Next.js, TypeScript and PostgreSQL — typed end to end, server-rendered and deployed on Vercel.",
-    tags: ["Next.js", "Server Actions", "PostgreSQL", "REST & GraphQL"],
+      "Production web apps with Next.js, TypeScript and MongoDB — typed end to end, server-rendered and deployed on Vercel.",
+    tags: ["Next.js", "Server Actions", "Mongo DB", "REST & GraphQL"],
     image: "/projects/protocole.jpg",
   },
   {

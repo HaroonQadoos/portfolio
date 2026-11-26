@@ -1,6 +1,7 @@
 "use server";
 
-import { Resend } from "resend";
+import { render } from "@react-email/components";
+import nodemailer from "nodemailer";
 import { z } from "zod";
 import ContactEmail from "@/emails/contact-email";
 
@@ -38,23 +39,29 @@ export async function sendContact(_prev: ContactState, formData: FormData): Prom
     };
   }
 
-  const { RESEND_API_KEY, CONTACT_TO_EMAIL, CONTACT_FROM_EMAIL } = process.env;
-  if (!RESEND_API_KEY || !CONTACT_TO_EMAIL || !CONTACT_FROM_EMAIL) {
-    console.error("Contact form: RESEND_API_KEY, CONTACT_TO_EMAIL or CONTACT_FROM_EMAIL missing");
+  // Free SMTP (e.g. Gmail with an app password). Defaults target Gmail; override host/port for other providers.
+  const { SMTP_USER, SMTP_PASS, CONTACT_TO_EMAIL, SMTP_HOST = "smtp.gmail.com", SMTP_PORT = "465" } = process.env;
+  if (!SMTP_USER || !SMTP_PASS || !CONTACT_TO_EMAIL) {
+    console.error("Contact form: SMTP_USER, SMTP_PASS or CONTACT_TO_EMAIL missing");
     return { status: "error", message: "Email is not configured yet. Please use the copy-email button.", values };
   }
 
   const { name, email, message } = parsed.data;
-  const { error } = await new Resend(RESEND_API_KEY).emails.send({
-    from: CONTACT_FROM_EMAIL,
-    to: CONTACT_TO_EMAIL,
-    replyTo: email,
-    subject: `New portfolio message from ${name}`,
-    react: ContactEmail({ name, email, message }),
-  });
-
-  if (error) {
-    console.error("Resend error", error);
+  const port = Number(SMTP_PORT);
+  try {
+    await nodemailer
+      .createTransport({ host: SMTP_HOST, port, secure: port === 465, auth: { user: SMTP_USER, pass: SMTP_PASS } })
+      .sendMail({
+        // Gmail rejects or rewrites other senders, so send as yourself and reply to the visitor.
+        from: `"Portfolio" <${SMTP_USER}>`,
+        to: CONTACT_TO_EMAIL,
+        replyTo: `"${name.replace(/"/g, "")}" <${email}>`,
+        subject: `New portfolio message from ${name}`,
+        html: await render(ContactEmail({ name, email, message })),
+        text: `${name} <${email}>\n\n${message}`,
+      });
+  } catch (err) {
+    console.error("SMTP error", err);
     return { status: "error", message: "Message could not be sent. Please try again.", values };
   }
   return { status: "success", message: "Thanks! I'll get back to you soon." };
