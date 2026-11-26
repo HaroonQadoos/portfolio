@@ -7,7 +7,7 @@ export function Navbar() {
     <header className="sticky top-0 z-50 px-2 pt-2 md:px-4">
       <nav
         aria-label="Primary"
-        className="mx-auto flex h-14 max-w-7xl items-center justify-between gap-4 rounded-full border bg-card/80 px-3 pl-4 backdrop-blur-xl supports-[backdrop-filter]:bg-card/60"
+        className="mx-auto flex h-14 max-w-7xl animate-[nav-in_0.9s_cubic-bezier(0.22,1,0.36,1)_both] items-center justify-between gap-4 rounded-full border bg-card/80 px-3 pl-4 backdrop-blur-xl supports-[backdrop-filter]:bg-card/60"
       >
         <a href="#top" className="flex items-center gap-3 rounded-full focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none">
           <span className="sr-only">{profile.name} — back to top</span>

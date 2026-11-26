@@ -21,9 +21,13 @@ export function Services() {
           const isOpen = open === i;
           const panelId = `service-panel-${i}`;
           return (
-            <li
+            <motion.li
               key={service.title}
               className="border-b"
+              initial={{ opacity: 0, x: -60 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              viewport={{ once: true, margin: "-60px" }}
+              transition={{ duration: 0.8, ease: easeOut, delay: i * 0.1 }}
               onPointerEnter={(e) => {
                 if (e.pointerType !== "mouse") return;
                 clearTimeout(hoverTimer.current);
@@ -92,7 +96,7 @@ export function Services() {
                   )}
                 </AnimatePresence>
               </motion.div>
-            </li>
+            </motion.li>
           );
         })}
       </ul>

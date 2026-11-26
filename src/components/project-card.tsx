@@ -1,5 +1,6 @@
 import { ArrowUpRight, Check } from "lucide-react";
 import Image from "next/image";
+import { CursorBadge } from "@/components/cursor-badge";
 import { LikeButton } from "@/components/like-button";
 import type { Project } from "@/content/site";
 import type { LikeState } from "@/lib/likes";
@@ -30,8 +31,8 @@ function GeneratedPreview({ project }: { project: Project }) {
 export function ProjectCard({ project, likes, featured = false }: { project: Project; likes?: LikeState; featured?: boolean }) {
   return (
     <article className="group flex h-full flex-col rounded-3xl border bg-background/60 p-2 transition-shadow hover:shadow-xl hover:shadow-foreground/5">
-      <div className={`relative overflow-hidden rounded-2xl ${featured ? "aspect-[16/10] md:aspect-[21/8]" : "aspect-[16/10]"}`}>
-        <div className="size-full transition-transform duration-700 ease-out group-hover:scale-[1.03]">
+      <CursorBadge className={`relative overflow-hidden rounded-2xl ${featured ? "aspect-[16/10] md:aspect-[21/8]" : "aspect-[16/10]"}`}>
+        <div className="relative size-full transition-transform duration-700 ease-out group-hover:scale-[1.03]">
           {project.image ? (
             <Image
               src={project.image}
@@ -47,7 +48,11 @@ export function ProjectCard({ project, likes, featured = false }: { project: Pro
         <span className="absolute top-3 left-3 rounded-full bg-card px-2.5 py-1 font-mono text-[10px] tracking-wider uppercase shadow-sm">
           {project.category}
         </span>
-      </div>
+        {project.liveUrl && (
+          // Makes the whole image clickable like the reference; the labelled "Live demo" button below stays the accessible link.
+          <a href={project.liveUrl} target="_blank" rel="noreferrer" tabIndex={-1} aria-hidden className="absolute inset-0" />
+        )}
+      </CursorBadge>
 
       <div className="flex flex-1 flex-col p-4">
         <div className="flex items-start justify-between gap-4">

@@ -14,9 +14,10 @@ function Letters({ text, delay, className, outline = false }: { text: string; de
         <motion.span
           key={i}
           className="relative inline-block"
-          initial={{ y: "105%" }}
-          animate={{ y: 0 }}
-          transition={{ duration: 0.9, ease: easeOut, delay: delay + i * 0.045 }}
+          // Reference intro: each letter fades in from a soft blur, no slide.
+          initial={{ opacity: 0, filter: "blur(14px)" }}
+          animate={{ opacity: 1, filter: "blur(0px)" }}
+          transition={{ duration: 1, ease: easeOut, delay: delay + i * 0.06 }}
         >
           {outline ? (
             <>
@@ -61,9 +62,10 @@ function Portrait() {
   return (
     <motion.div
       ref={ref}
-      initial={{ opacity: 0, y: 40 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 1, ease: easeOut, delay: 0.5 }}
+      // Rises from below the hero's bottom edge while fading in; the fade runs a little faster so the climb stays visible.
+      initial={{ y: "110%", opacity: 0 }}
+      animate={{ y: 0, opacity: 1 }}
+      transition={{ y: { duration: 1.4, ease: [0.76, 0, 0.24, 1], delay: 1 }, opacity: { duration: 0.9, ease: "easeOut", delay: 1.1 } }}
       className="pointer-events-none relative z-10 mx-auto mt-8 h-80 w-fit mask-[linear-gradient(to_top,transparent,black_18%)] lg:absolute lg:inset-x-0 lg:bottom-17 lg:mt-0 lg:h-[68%]"
     >
       <Image
@@ -110,21 +112,21 @@ export function Hero() {
           <Letters text={profile.lastName} delay={0.35} className="text-foreground/75" />
         </h1>
 
-        <motion.p {...fadeUp(0.7)} className="mt-6 font-mono text-xs tracking-widest text-muted-foreground uppercase md:text-sm">
+        <motion.p {...fadeUp(0.9)} className="mt-6 font-mono text-xs tracking-widest text-muted-foreground uppercase md:text-sm">
           {profile.role} · Shopify · Webflow · Next.js
         </motion.p>
 
         <Portrait />
 
         <div className="relative z-20 mt-auto grid gap-8 pt-14 md:grid-cols-[1.2fr_1fr] md:items-end">
-          <motion.div {...fadeUp(0.85)}>
+          <motion.div {...fadeUp(1)}>
             <p className="max-w-xl text-2xl leading-tight font-semibold tracking-tight text-balance md:text-4xl">
               {profile.headline}
             </p>
             <p className="mt-4 max-w-lg text-base text-muted-foreground">{profile.summary}</p>
           </motion.div>
 
-          <motion.div {...fadeUp(1)} className="flex flex-wrap gap-3 md:justify-end">
+          <motion.div {...fadeUp(1.1)} className="flex flex-wrap gap-3 md:justify-end">
             <a
               href="#work"
               className="inline-flex h-12 items-center gap-2 rounded-full bg-foreground px-6 text-sm font-medium text-background border border-foreground transition-colors duration-300 hover:bg-transparent hover:text-foreground focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
@@ -142,7 +144,7 @@ export function Hero() {
         </div>
 
         <motion.div
-          {...fadeUp(1.15)}
+          {...fadeUp(1.3)}
           className="relative z-20 mt-12 flex items-center justify-between border-t pt-5 font-mono text-xs text-muted-foreground"
         >
           <span>{profile.yearsOfExperience} year building for the web</span>
