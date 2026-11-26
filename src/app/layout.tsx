@@ -23,6 +23,7 @@ export async function generateMetadata(): Promise<Metadata> {
     openGraph: { type: "website", url: "/", siteName: profile.name, title, description, locale: "en_US" },
     twitter: { card: "summary_large_image", title, description },
     robots: { index: true, follow: true },
+    icons: { icon: { url: "/favicon.webp", type: "image/webp" } },
   };
 }
 
